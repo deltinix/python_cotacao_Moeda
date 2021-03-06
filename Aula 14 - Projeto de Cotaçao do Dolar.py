@@ -1,6 +1,9 @@
 '''
-1. FAÇA UM PROGRAMA USANDO TODO O CONHECIMENTO ADQUIRIDO ATÉ AGORA MOSTRANDO EM TEMPO REAL A COTAÇÃO DO DOLAR EM REAL
-2. FAÇA UM PROGRAMA MOSTRANDO A PREVISÃO DO TEMPO EM TEMPO REAL
+Cotação do Dolar usando API
+É possivel definir um gatilho para compra da moeda, assim o programa te avisa
+É preciso instalar o programa: Speed Dispatcher, use o comando: sudo apt-get install speech-dispatcher
+Por: Ricardo Rocha
+deltab@gmail.com
 '''
 
 import requests
